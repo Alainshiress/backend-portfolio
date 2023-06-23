@@ -1,0 +1,3 @@
+mongodb+srv://alainshiress64:alain@backend.2qpltuz.mongodb.net/
+
+mongodb+srv://alainshiress64:alain@backend.2qpltuz.mongodb.net/?retryWrites=true&w=majority
